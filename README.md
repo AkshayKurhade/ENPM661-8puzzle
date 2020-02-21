@@ -10,9 +10,9 @@
 ```
 pip install numpy
 ```
-2) ### OS *Preinstalled under STDlib*
-3) ### Functions *must be in the same Directory*
-4) ### Collections
+2)  OS *Preinstalled under STDlib*
+3)  Functions *must be in the same Directory*
+4)  Collections
 
 ## To run the program
 ### Python interpreter 

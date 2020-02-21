@@ -84,7 +84,6 @@ if solvable == 1:
             emptystring = emptystring + str(move[i]) + " "
         emptystring = emptystring + "\n"
         file.write(emptystring)
-
-
+    print("All Files Saved Successfully..!")
 else:
     print("Puzzle is unsolvable..\n Try a Different Combination")
